@@ -1,4 +1,4 @@
-#RM560950 LUIGI PEREIRA BONUCCELLI
+#RM560950
 def media(consumos): #FUNÇAO QUE CALCULA A MEDIA DO CONSUMO DE ENERGIA
     return sum(consumos) / len(consumos)
 
